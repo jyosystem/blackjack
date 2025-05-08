@@ -1,2 +1,8 @@
 # blackjack
 カジノでのブラックジャックの期待値を測るためのコード
+
+/workspaces/blackjack/blackjack/black.py
+で自分でブラックジャックを遊ぶことができる
+
+/workspaces/blackjack/blackjack/sakai.py
+でこれは期待値を元に友人が作り出したもので実際にこのプログラムを何回動かすことで本当に期待値通りの結果が得られるかを測ることができる
